@@ -1,3 +1,4 @@
+# Skills
 My educational, professional, and interpersonal experiences have collectively enabled me to develop diverse skills. I am constantly improving my abilities and learning new skills to stay at the forefront of personal and professional development.
 ## Technical Skills 
 ### Throughout my education at the University of Denver, I have learned how to analyze and organize data using various methods. 

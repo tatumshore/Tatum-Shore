@@ -10,7 +10,7 @@
 ##### "Sunrise"
 ![IMG_1537](https://github.com/tatumshore/Tatum-Shore/assets/161763391/789b85d9-999f-48bb-ac0d-17d68e0fa5f9)
 ##### "Self Portrait"
-![IMG_1675](https://github.com/tatumshore/Tatum-Shore/assets/161763391/751879f7-bea9-4bc7-b8ef-753ea470f190)
+![IMG_1675](https://github.com/tatumshore/Tatum-Shore/assets/161763391/751879f7-bea9-4bc7-b8ef-753ea470f190<size="40">/)
 
 
 

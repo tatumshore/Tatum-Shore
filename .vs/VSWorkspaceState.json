@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assets",
+    "\\Education",
+    "\\Extracurricular",
+    "\\Mission",
+    "\\ProfessionalExperience",
+    "\\Skills",
+    "\\WorkExamples"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Skills\\README-SKI.md",
   "PreviewInSolutionExplorer": false
 }
